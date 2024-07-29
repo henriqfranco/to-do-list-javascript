@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+}
+
+.taskBox{
+    display: flex;
+    justify-content: center;
+}
+
